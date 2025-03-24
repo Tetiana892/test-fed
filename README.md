@@ -1,16 +1,24 @@
 # Test Task
 
-This project is a simple web app for interacting with text. It allows users to:
+## Overview
+This project is a simple web application for interacting with text. It provides the following features:
+
 1. Enter a string in a text field.
-2. Display the string as individual characters.
-3. Select and highlight characters (Ctrl + Click).
-4. Drag and drop characters to reorder them, with proper swapping.
+2. Display the string as individual characters that can be selected and manipulated.
+3. Select individual characters or groups of characters using **Ctrl + Click** or a **selection rectangle**.
+4. Highlight selected characters by changing their color.
+5. Drag and drop characters or groups of characters to reorder them, with proper swapping between letters and no overlapping.
 
 ## How to Run
-1. Open `index.html` in your browser.
-2. Enter text, interact with characters, and test the functionality.
+1. Clone or download this repository to your local machine.
+2. Open the `index.html` file directly in your browser (no server required).
+3. Enter text in the input field and interact with the displayed characters to test the functionality.
 
-## Features
-- Highlight characters (Ctrl + Click).
-- Drag and drop characters to reorder them.
-- Swap characters when dropping them in new positions.
+## Key Features
+- **Character Highlighting**: Use **Ctrl + Click** or a **selection rectangle** to select and highlight individual characters or groups of characters.
+- **Drag and Drop**: Reorder characters or groups using drag-and-drop.
+- **Swap on Drop**: When characters are dropped into new positions, they swap properly without overlapping.
+
+---
+
+Feel free to improve or extend the functionality to fit your needs!
