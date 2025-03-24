@@ -12,7 +12,7 @@ This project is a simple web application for interacting with text. It provides 
 ## How to Run
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file directly in your browser (no server required).
-3. Alternatively, visit the live demo hosted on GitHub Pages: [Live Demo](https://your-username.github.io/repository-name) (replace with your actual link).
+3. Alternatively, visit the live demo hosted on GitHub Pages: [Live Demo](https://tetiana892.github.io/test-fed/) (replace with your actual link).
 
 ## Key Features
 - **Character Highlighting**: Use **Ctrl + Click** or a **selection rectangle** to select and highlight individual characters or groups of characters.
