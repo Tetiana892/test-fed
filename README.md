@@ -12,7 +12,7 @@ This project is a simple web application for interacting with text. It provides 
 ## How to Run
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file directly in your browser (no server required).
-3. Enter text in the input field and interact with the displayed characters to test the functionality.
+3. Alternatively, visit the live demo hosted on GitHub Pages: [Live Demo](https://your-username.github.io/repository-name) (replace with your actual link).
 
 ## Key Features
 - **Character Highlighting**: Use **Ctrl + Click** or a **selection rectangle** to select and highlight individual characters or groups of characters.
@@ -21,4 +21,4 @@ This project is a simple web application for interacting with text. It provides 
 
 ---
 
-Feel free to improve or extend the functionality to fit your needs!
+Feel free to test the project using the link above and explore the functionality!
